@@ -1,1 +1,1 @@
-## Hello, GeeksforGeeks! :D
+## Hello, GeeksforGeeks! :)
